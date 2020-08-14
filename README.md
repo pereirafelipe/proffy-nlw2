@@ -1,11 +1,9 @@
-<h1 align="center" >🚀 Proffy</h1>
-
+<h1 align="center"> :books: :computer: Proffy </h1>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
-
 
 
 ![proffy](https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/proffy.png)
