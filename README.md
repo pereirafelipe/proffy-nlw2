@@ -7,17 +7,24 @@
 </p>
 
 
+
 ![proffy](https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/proffy.png)
 
 ![lista](https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/proffyList.png)
 
-<p align="center" max-width="200px" >
- Proffy é uma aplicação que visa conectar alunos e professores.
 
-</p>
+
+
 
 ## Mobile First
-<p> Mobile First é um conceito aplicado em projetos web onde o foco inicial da arquitetura e desenvolvimento é direcionado aos dispositivos móveis e em seguida para os desktops. A técnica tem se popularizado cada vez mais entre os profissionais de marketing e tecnologia. </p>
+<p> Mobile First é um conceito aplicado em projetos web onde o foco inicial da arquitetura e desenvolvimento é direcionado aos dispositivos móveis e em seguida para os desktops. A técnica tem se popularizado cada vez mais entre os profissionais de marketing e tecnologia. 
+
+
+<div "display: flex">
+<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile1.png" width="317px" height="553" alt="mobile1">
+<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile2.png" width="317px" height="553" alt="mobile1">
+<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile3.png" width="317px" height ="553" alt="mobile1">
+
 
 
 ## Tecnologias
@@ -25,13 +32,10 @@
 - <a href="https://www.learn-html.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >HTML5 </a>
 - <a href="https://nodejs.org/en/" style="text-decoration: none; font-size: 16px; color: #fff;" >Node JS </a>
 - <a href="https://www.javascript.com/" style="text-decoration: none; font-size: 16px; color: #fff;" >JavaScrit </a>
-- <a href="https://reactnative.dev/" style="text-decoration: none; font-size: 16px; color: #fff;" >CSS</a>
+- <a href="https://www.learn-html.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >CSS</a>
 
 
-## Licença:
 
-Este projeto está licenciado sob a licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
-  
 ## Autor:
 
 Feito  por Felipe Pereiura❤️ 
@@ -49,7 +53,9 @@ Feito  por Felipe Pereiura❤️
     <img src="https://img.shields.io/badge/-Rocket-7159C1?style=flat-square&logoColor=white" />
   </a>
 
-## Divirta-se! Rumo ao próximo nível! 🚀🚀  
+## Licença:
+
+Este projeto está licenciado sob a licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
 
 
 
