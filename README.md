@@ -10,7 +10,7 @@
   <img width="360" src="https://user-images.githubusercontent.com/48728541/84803421-5b6eb480-afd8-11ea-91ea-883c5ef9f2d1.png" />
 </p> -->
 
-![Imagem](https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/proffyList.jpeg)
+![Imagem](https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/proffy.png)
 
 <p align="center" max-width="200px" >
  Proffy é uma aplicação que visa conectar alunos e professores.
