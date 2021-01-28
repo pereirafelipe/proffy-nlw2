@@ -19,9 +19,9 @@
 
 
 <div "display: flex">
-<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile1.png" width="280px" height="553" alt="mobile1">
-<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile2.png" width="280px" height="553" alt="mobile1">
-<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile3.png" width="280px" height ="553" alt="mobile1">
+<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile1.png" width="275px" height="550" alt="mobile1">
+<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile2.png" width="275px" height="550" alt="mobile1">
+<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile3.png" width="275px" height ="550" alt="mobile1">
 
 
 
